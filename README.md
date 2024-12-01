@@ -5,7 +5,13 @@ Welcome to my GitHub profile.
 💼 I'm working on **a personal finance tracker using Python (Flask + SQLite)** and improving my **weather prediction project** for GitHub.  
 
 ## 💻 Skills  
-- Programming: Python, C#, C++, JavaScript  
+- Programming: Python, C#, C++, JavaScript
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+
 - Tools: Git, Flask, SQLite, PyCharm, WPF
 
   
