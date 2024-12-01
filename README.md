@@ -10,14 +10,14 @@ Welcome to my GitHub profile.
 - Tools: Git, Flask, [Your Tools]
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomnaj&show_icons=true&theme=radical)
 
 ## 📫 How to reach me:
 - [LinkedIn](https://linkedin.com/in/your-profile)
 - [Email](mailto:your-email@example.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomnaj&show_icons=true&theme=radical)
 
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=your-username&theme=dracula)
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=tomnaj&theme=dracula)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
