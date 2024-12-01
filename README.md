@@ -6,7 +6,13 @@ Welcome to my GitHub profile.
 
 ## 💻 Skills  
 - Programming: Python, C#, C++, JavaScript  
-- Tools: Git, Flask, SQLite, PyCharm, WPF  
+- Tools: Git, Flask, SQLite, PyCharm, WPF
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat-square)
+![WPF](https://img.shields.io/badge/-WPF-5C2D91?logo=.net&logoColor=white&style=flat-square)
+
 
 ## 📫 How to reach me:
 - [Email](mailto:tomasznajduch212@gmail.com)
