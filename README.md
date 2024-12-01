@@ -8,16 +8,19 @@ Welcome to my GitHub profile.
 - Programming: Python, C#, C++, JavaScript  
 - Tools: Git, Flask, SQLite, PyCharm, WPF  
 
-## 📈 GitHub Stats  
+## 📫 How to reach me:
+- [Email](mailto:tomasznajduch212@gmail.com)
+  
+<!--## 📈 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
 
-## 📫 How to reach me:  
+
 - [LinkedIn](https://linkedin.com/in/your-profile)  
-- [Email](mailto:tomasznajduch212@gmail.com)  
+  
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomnaj&show_icons=true&theme=radical)
 
 ![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=tomnaj&theme=dracula)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)-->
