@@ -1,20 +1,21 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Tomek! 👋  
 Welcome to my GitHub profile.
 
-🌱 I’m currently learning [topic/skill].  
-💼 I'm working on [project].  
-✨ Fun fact: [fun fact about yourself].  
+🌱 I’m currently learning **core machine learning concepts** and exploring **data science**.  
+💼 I'm working on **a personal finance tracker using Python (Flask + SQLite)** and improving my **weather prediction project** for GitHub.  
+✨ Fun fact: **I bench press 60 kg for 5 reps and play League of Legends with my best friend, Filip.**  
 
-## 💻 Skills
-- Programming: Python, JavaScript, [Your Skills]
-- Tools: Git, Flask, [Your Tools]
+## 💻 Skills  
+- Programming: Python, C#, C++, JavaScript  
+- Tools: Git, Flask, SQLite, PyCharm, WPF  
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomnaj&show_icons=true&theme=radical)
+## 📈 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
 
-## 📫 How to reach me:
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Email](mailto:your-email@example.com)
+## 📫 How to reach me:  
+- [LinkedIn](https://linkedin.com/in/your-profile)  
+- [Email](mailto:tomasznajduch212@gmail.com)  
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomnaj&show_icons=true&theme=radical)
 
