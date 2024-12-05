@@ -2,7 +2,7 @@
 Welcome to my GitHub profile.
 
 🌱 I’m currently learning **core machine learning concepts** and exploring **data science**.  
-💼 I'm working on **a personal finance tracker using Python (Flask + SQLite)** and improving my **weather prediction project** for GitHub.  
+💼 I'm working on **my own ai** and improving my **weather prediction project** for GitHub.  
 
 ## 💻 Skills  
 - Programming: Python, C#, C++, JavaScript
