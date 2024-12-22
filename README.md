@@ -24,8 +24,6 @@ Welcome to my GitHub profile.
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=flat-square)
 ![WPF](https://img.shields.io/badge/-WPF-5C2D91?logo=.net&logoColor=white&style=flat-square)
 
-## 📫 How to reach me:
-- [Email](mailto:tomasznajduch212@gmail.com)
 
 ---
   
