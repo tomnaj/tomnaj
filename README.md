@@ -27,7 +27,7 @@ Welcome to my GitHub profile.
 
 ---
   
-## 📈 GitHub Stats  
+<!--## 📈 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomnaj&show_icons=true&theme=radical)  
 
 
