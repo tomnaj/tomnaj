@@ -26,7 +26,8 @@ Welcome to my GitHub profile.
 
 
 ---
-  
+![Profile Views](https://komarev.com/ghpvc/?username=tomnaj&color=blue)
+
 <!--## 📈 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomnaj&show_icons=true&theme=radical)  
 
