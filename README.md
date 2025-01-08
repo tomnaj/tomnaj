@@ -4,7 +4,7 @@
 Welcome to my GitHub profile.
 
 🌱 I’m currently learning **core machine learning concepts** and exploring **data science**.  
-💼 I'm working on **crypto bot** and improving my **weather prediction project** for GitHub.  
+💼 I'm working on and improving my **weather prediction project** for GitHub.  
 
 ## 💻 Skills  
 - Programming: Python, C#, C++, JavaScript, HTML, CSS  
